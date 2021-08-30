@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-<!--
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Anarchy Server Bot (java) and my personal website galaxy.
 - 🌱 I’m currently learning Java.
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Discord](https://discord.bio/CixAstra) or via [Email]
 - 😄 Pronouns: [He/Him](https://en.pronouns.page/he)
 - ⚡ Fun fact: My cat is named Bips. 
--->
 
 Hello! I am ciputin! You may also know me as CixAstra.
 
