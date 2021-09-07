@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Anarchy Server Bot (java) and my personal website galaxy.
 - 🌱 I’m currently learning Java.
 - 💬 Ask me about anything!
-- 📫 How to reach me: [Discord](https://discord.bio/CixAstra) or via [Email]
+- 📫 How to reach me: [Discord](https://discord.bio/CixAstra) or via [Email](mailto:anything@ciputin.cf)
 - 😄 Pronouns: [He/Him](https://en.pronouns.page/he)
 - ⚡ Fun fact: My cat is named Bips. 
 
