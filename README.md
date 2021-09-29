@@ -13,7 +13,7 @@ Here is a brief breakdown of me:
 
 ---
 
-Names: **Ci**, Ciputin, CixAstra, *Conner (not unless you're my irl)*
+Names: **Ci**, Ciputin, CixAstra
 
 Socials: 
 - **Discord** [@CixAstra#1643](dsc.bio/cixastra)                              
