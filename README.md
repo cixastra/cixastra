@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working my personal website.
 - 🌱 I’m currently learning Blockchain / Decentralized technologies and [Dart]("https://dart.dev", "_blank") and [Flutter]("https://flutter.dev", "_blank").
-- 📫 How to reach me: [Discord](https://discord.bio/CixAstra, "_blank")
-- 😄 Pronouns: [He/Him]("https://en.pronouns.page/he", "_blank")
+- 📫 How to reach me: [Discord](https://discord.bio/CixAstra "_blank")
+- 😄 Pronouns: [He/Him](https://en.pronouns.page/he "_blank")
 - ⚡ Fun fact: My cat is named Bips. 
 
 ---
