@@ -15,7 +15,6 @@
 Previous Experience: 
 - [Fusion360](https://www.autodesk.com/products/fusion-360/overview)
 - [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview)
-- [Onshape](https://www.onshape.com)
 
 
 Thx [Github for education](https://education.github.com) for free Pro!
